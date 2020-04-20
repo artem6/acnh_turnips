@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/acnh_turnips/static/css/main.04c3bf5c.chunk.css",
-    "main.js": "/acnh_turnips/static/js/main.d6ef66bb.chunk.js",
-    "main.js.map": "/acnh_turnips/static/js/main.d6ef66bb.chunk.js.map",
+    "main.js": "/acnh_turnips/static/js/main.241979af.chunk.js",
+    "main.js.map": "/acnh_turnips/static/js/main.241979af.chunk.js.map",
     "runtime-main.js": "/acnh_turnips/static/js/runtime-main.e21b3aff.js",
     "runtime-main.js.map": "/acnh_turnips/static/js/runtime-main.e21b3aff.js.map",
     "static/js/2.c6685811.chunk.js": "/acnh_turnips/static/js/2.c6685811.chunk.js",
     "static/js/2.c6685811.chunk.js.map": "/acnh_turnips/static/js/2.c6685811.chunk.js.map",
     "index.html": "/acnh_turnips/index.html",
-    "precache-manifest.a182f4625ddd3cedd5e94525da9e12bf.js": "/acnh_turnips/precache-manifest.a182f4625ddd3cedd5e94525da9e12bf.js",
+    "precache-manifest.ad586090a6d5c621a7a0b7930a516eba.js": "/acnh_turnips/precache-manifest.ad586090a6d5c621a7a0b7930a516eba.js",
     "service-worker.js": "/acnh_turnips/service-worker.js",
     "static/css/main.04c3bf5c.chunk.css.map": "/acnh_turnips/static/css/main.04c3bf5c.chunk.css.map",
     "static/js/2.c6685811.chunk.js.LICENSE.txt": "/acnh_turnips/static/js/2.c6685811.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e21b3aff.js",
     "static/js/2.c6685811.chunk.js",
     "static/css/main.04c3bf5c.chunk.css",
-    "static/js/main.d6ef66bb.chunk.js"
+    "static/js/main.241979af.chunk.js"
   ]
 }
