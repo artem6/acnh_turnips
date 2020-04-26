@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/acnh_turnips/static/css/main.04c3bf5c.chunk.css",
-    "main.js": "/acnh_turnips/static/js/main.e9d86a5e.chunk.js",
-    "main.js.map": "/acnh_turnips/static/js/main.e9d86a5e.chunk.js.map",
+    "main.js": "/acnh_turnips/static/js/main.03244886.chunk.js",
+    "main.js.map": "/acnh_turnips/static/js/main.03244886.chunk.js.map",
     "runtime-main.js": "/acnh_turnips/static/js/runtime-main.e21b3aff.js",
     "runtime-main.js.map": "/acnh_turnips/static/js/runtime-main.e21b3aff.js.map",
-    "static/js/2.c6685811.chunk.js": "/acnh_turnips/static/js/2.c6685811.chunk.js",
-    "static/js/2.c6685811.chunk.js.map": "/acnh_turnips/static/js/2.c6685811.chunk.js.map",
+    "static/js/2.ef8bae1c.chunk.js": "/acnh_turnips/static/js/2.ef8bae1c.chunk.js",
+    "static/js/2.ef8bae1c.chunk.js.map": "/acnh_turnips/static/js/2.ef8bae1c.chunk.js.map",
     "index.html": "/acnh_turnips/index.html",
-    "precache-manifest.c3df4be6218641bdcdab6b20f7f7e171.js": "/acnh_turnips/precache-manifest.c3df4be6218641bdcdab6b20f7f7e171.js",
+    "precache-manifest.7883bcee75579cbbedb19efe62f14b53.js": "/acnh_turnips/precache-manifest.7883bcee75579cbbedb19efe62f14b53.js",
     "service-worker.js": "/acnh_turnips/service-worker.js",
     "static/css/main.04c3bf5c.chunk.css.map": "/acnh_turnips/static/css/main.04c3bf5c.chunk.css.map",
-    "static/js/2.c6685811.chunk.js.LICENSE.txt": "/acnh_turnips/static/js/2.c6685811.chunk.js.LICENSE.txt"
+    "static/js/2.ef8bae1c.chunk.js.LICENSE.txt": "/acnh_turnips/static/js/2.ef8bae1c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e21b3aff.js",
-    "static/js/2.c6685811.chunk.js",
+    "static/js/2.ef8bae1c.chunk.js",
     "static/css/main.04c3bf5c.chunk.css",
-    "static/js/main.e9d86a5e.chunk.js"
+    "static/js/main.03244886.chunk.js"
   ]
 }
