@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/acnh_turnips/sw.js', { scope: '/acnh_turnips/' })})}

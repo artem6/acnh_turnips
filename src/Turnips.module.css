@@ -1,0 +1,117 @@
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  min-width: 400px;
+  position: relative;
+}
+.title {
+  margin: 10px 64px;
+  font-size: 26px;
+}
+.title span {
+  display: inline-block;
+  width: calc(100% - 64px);
+  max-width: 400px;
+}
+.title img {
+  vertical-align: top;
+}
+.subTitle {
+  font-size: 17px;
+  margin-top: -10px;
+}
+
+.priceTable input {
+  width: 45px;
+  padding: 12px;
+  font-size: 16px;
+  text-align: center;
+  margin: 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.formDay {
+  width: 170px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.recommendation {
+  margin: 40px;
+  font-size: 25px;
+}
+
+.patternSelect {
+  margin: 20px;
+  height: 50px;
+  font-size: 14px;
+  width: 200px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.instructions {
+  margin: 20px;
+}
+
+.resetForm {
+  cursor: pointer;
+  margin: 8px;
+  margin-top: 15px;
+  border: 1px solid #ff6d6d;
+  color: #ff5050;
+  display: inline-block;
+  padding: 13px;
+  vertical-align: top;
+}
+
+.shareLink {
+  cursor: pointer;
+  margin: 8px;
+  margin-top: 15px;
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 13px;
+  vertical-align: top;
+}
+
+.shareLink input {
+  border: none;
+  display: block;
+  width: 200px;
+}
+
+.groupingContainer {
+  margin-bottom: 32px;
+}
+
+.groupingForm {
+  display: inline-block;
+  padding: 16px;
+  margin: 8px;
+  min-width: 124px;
+}
+
+.groupingForm .percent {
+  font-size: 24px;
+  padding-bottom: 8px;
+}
+
+.pattern2 {
+  color: #2b2b2b;
+  background: #db535f;
+}
+.pattern0 {
+  color: #2b2b2b;
+  background: #bac146;
+}
+.pattern3 {
+  color: #fff;
+  background: #557311;
+}
+.pattern1 {
+  color: #fff;
+  background: #163502;
+}
